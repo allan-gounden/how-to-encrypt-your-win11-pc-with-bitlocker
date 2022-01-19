@@ -58,10 +58,17 @@ NEVER GIVE UP
 
 THE RESISTENCE WILL NEVER DIE. YOU ARE NOT ALONE.
 
+***
 
-GERMAN TRANSLATION / Deutsche Anleitung
+***
 
-Wie Sie Ihren Windows 11 PC richtig verschlüsseln
+***
+
+GERMAN TRANSLATION
+
+Deutsche Anleitung
+
+Wie Sie Ihren Windows 11 PC mit BitLocker richtig verschlüsseln
 
 0. Aktivieren Sie Secureboot in Ihrem UEFI/BIOS
 
