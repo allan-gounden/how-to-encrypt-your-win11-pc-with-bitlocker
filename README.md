@@ -36,13 +36,15 @@ HOW TO encrypt your Windows 11 PC with BitLocker correctly
 
 <img width="675" alt="bitlocker_enable_1" src="https://user-images.githubusercontent.com/6840466/150138567-62f6be52-0285-4e26-8794-5d52f47d01fa.png">
 
+(If you want to have a recovery password "manage-bde -on c: -RecoveryPassword")
+
 Reboot your PC
 
 7. Use a password
 
 <img width="675" alt="bitlocker_enable_2" src="https://user-images.githubusercontent.com/6840466/150138680-81ecdcf6-3fad-415f-895e-a306943b0deb.png">
 
-WARNING: before changing your hardware or updating your BIOS you should disable BitLocker! (manage-bde -off C:) Otherwise you will be locked out of your system. You can also create a recovery password (not covered in this guide)
+WARNING: before changing your hardware or updating your BIOS you should disable BitLocker! (manage-bde -off C:) Otherwise you will be locked out of your system. You can also create a recovery password.
 
 Pardon me for my bad english but they brainwashed me (no joke!) and I am still recovering. (Political parties in germany [Yes all the big ones! They worked together with german billionaires because i told them the truth and knew some things they call "secrets" (criminal acts) but in my opinion everybody should now. They are incompetent, corrupt, cowards. Yes I am ANGRY 😡 ]) Had to train for a few years to recover.
 
@@ -97,6 +99,8 @@ Wie Sie Ihren Windows 11 PC richtig verschlüsseln
 
 <img width="675" alt="bitlocker_enable_1" src="https://user-images.githubusercontent.com/6840466/150138567-62f6be52-0285-4e26-8794-5d52f47d01fa.png">
 
+(Wenn Sie ein Recovery-Password nutzen möchten "manage-bde -on c: -RecoveryPassword")
+
 7. Nutzen Sie ein Passwort
 
 Starten Sie Ihren PC neu
@@ -107,7 +111,7 @@ WARNING: Bevor Sie Ihre Hardware oder Ihr BIOS updaten sollten Sie auf jedenfall
 
   (manage-bde -off C:)
 
-Andernfalls werden Sie aus Ihrem System ausgesperrt. Sie können auch ein Recovery-Password setzen (nicht in dieser Anleitung behandelt!)
+Andernfalls werden Sie aus Ihrem System ausgesperrt. Sie können auch ein Recovery-Password setzen.
 
 Man hat mich in der Vergangenheit einer Gehirnwäsche unterzogen, kein Scherz!. (Politische Parteien in Deutschland [Ja, alle großen! Sie haben sich damals mit deutschen Milliardären zusammengeschlossen weil ich Ihnen die Wahrheit erzählt habe und einige Dinge wußte welche Sie als "Geheimnisse" (kriminelle Handlungen) bezeichen, wo ich aber der Überzeugung bin dass dies alle Wissen sollten. Sie sind inkompetent, korrupt und feige. Ja ich bin wütend😡 ]) Ich muste ein paar Jahre trainieren um wieder auf die Beine zu kommen.
 
