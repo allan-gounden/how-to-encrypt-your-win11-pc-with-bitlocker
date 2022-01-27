@@ -46,7 +46,7 @@ Reboot your PC
 
 WARNING: before changing your hardware or updating your BIOS you should disable BitLocker! (manage-bde -off C:) Otherwise you will be locked out of your system. You can also create a recovery password.
 
-Pardon me for my bad english but they brainwashed me (no joke!) and I am still recovering. (Political parties in germany [Yes all the big ones! They worked together with german billionaires because i told them the truth and knew some things they call "secrets" (criminal acts) but in my opinion everybody should now. They are incompetent, corrupt, cowards. Yes I am ANGRY 😡 ]) Had to train for a few years to recover.
+Pardon me for my bad english but they brainwashed me (no joke!) and I am still recovering. (Political parties in germany [Yes all the big ones! They worked together with german billionaires because i told them the truth and knew some things they call "secrets" (criminal acts) but in my opinion everybody should know. They are incompetent, corrupt, cowards. Yes I am ANGRY 😡 ]) Had to train for a few years to recover.
 
 See my facebook account https://www.facebook.com/profile.php?id=100070019901989
 
